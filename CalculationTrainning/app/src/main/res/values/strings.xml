@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">シンプルすぎる計算脳トレ</string>
+
+    <!-- 選択肢 -->
+    <string-array name="number_of_question">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
